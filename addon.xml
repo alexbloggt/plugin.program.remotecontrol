@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon  id="plugin.program.remotecontrol" 
+        name="Remote Control" 
+        version="0.1.0" 
+        provider-name="alex">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.parsedom" version="0.9.1"/>
+    <import addon="script.module.pyxbmct" version="1.1.4"/>
+  </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Control your remote sockets via Kodi</summary>
+    <summary lang="de">Steuere deine Funksteckdosen über Kodi</summary>
+    <description lang="en">Control your remote sockets via Raspberry Pi and this Add-On. It is necessary to install additional Software and Hardware for that on your Raspberry! Read more about it here: http://xxx.xxx/xxx</description>
+    <description lang="de">Steuere deine Funksteckdosen über den Raspberry Pi und dieses Add-On. Es ist erforderlich, dass zusätzliche Soft- und Hardware auf dem Raspberry installiert wird! Weitere Informationen hier: http://xxx.xxx/xxx</description>
+    <platform>all</platform>
+    <license></license>
+  </extension>
+</addon>
