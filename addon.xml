@@ -14,8 +14,8 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Control your remote sockets via Kodi</summary>
     <summary lang="de">Steuere deine Funksteckdosen über Kodi</summary>
-    <description lang="en">Control your remote sockets via Raspberry Pi and this Add-On. It is necessary to install additional Software and Hardware for that on your Raspberry! Read more about it here: http://xxx.xxx/xxx</description>
-    <description lang="de">Steuere deine Funksteckdosen über den Raspberry Pi und dieses Add-On. Es ist erforderlich, dass zusätzliche Soft- und Hardware auf dem Raspberry installiert wird! Weitere Informationen hier: http://xxx.xxx/xxx</description>
+    <description lang="en">Control your remote sockets via Raspberry Pi and this Add-On. It is necessary to install additional Software and Hardware for that on your Raspberry! Read more about it here (in German): https://alexbloggt.com/kodi-addon-funksteckdosen/</description>
+    <description lang="de">Steuere deine Funksteckdosen über den Raspberry Pi und dieses Add-On. Es ist erforderlich, dass zusätzliche Soft- und Hardware auf dem Raspberry installiert wird! Weitere Informationen hier: https://alexbloggt.com/kodi-addon-funksteckdosen/</description>
     <platform>all</platform>
     <license></license>
   </extension>
